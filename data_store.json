@@ -1,14 +1,1 @@
-{
-    "1": {
-        "hashed_passkey": "372612512aed7539b166948476b5d801241612870ee8299d2261d64c5a2bfa00",
-        "encrypted_data": "Z0FBQUFBQm5fQ1hwSEs1WGRDbHdvdXNJZkZwdmExZXRXb2FYOGRnRndja0lZak91RkdibVREU0ZDc1E4RTRlMnpYeUVVMU9iU0dTajB5cUR4bzlXUXl3c3BtbEkyX3lQcGc9PQ==",
-        "fernet_key": "dF2klFCYo8ithWSPF6XLH7_pbVHedtXB0EM43QqESMU=",
-        "salt": "YOuVZrz2THZQ0hKRBmRUAw=="
-    },
-    "2": {
-        "hashed_passkey": "d45e1cae3476ae34cb8cea6e02a545283f5b8b61e98ad1ed743fd8ab9ea1521a",
-        "encrypted_data": "Z0FBQUFBQm5fQ1h5Y0JSbDNQRVBGQ29PUHdwZGxPWURFaEs5MjZ4M0pra1V5ekxMQWRQNTJKWi1GWldOdGNIT2x0OWhSY3FhMHNHblVLblpKTmRxWUh0eGljYU9xR0NsQ2c9PQ==",
-        "fernet_key": "dF2klFCYo8ithWSPF6XLH7_pbVHedtXB0EM43QqESMU=",
-        "salt": "WY/qaIXGSlDchyVrqT6SIA=="
-    }
-}
+{}
